@@ -1,8 +1,10 @@
 
 
+
 # Hi there, I'm Razan 👋
 
 <!-- Typing animation -->
+<!-- Added Typing ticker -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+a+master's+degree+in+statistical+engineering.;Passionate+about+data+science/analyses.)
 
 <!-- Animated GIF as a background -->
