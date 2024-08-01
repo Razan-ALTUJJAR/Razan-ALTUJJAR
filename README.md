@@ -1,13 +1,13 @@
 ### Hi there, I'm Razan 👋
 
-<!-- Added Typing ticker -->    
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+a+master's+degree+in+statistical+engineering.;Passionate+about+data+science/analyses.) 
+<!-- Added Typing ticker -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+a+master's+degree+in+statistical+engineering.;Passionate+about+data+science/analyses.)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">
 
 ### 📫 How to reach me:
 
-- **Email**: razantejjar1@gmail.com
+- **Email**: [razantejjar1@gmail.com](mailto:razantejjar1@gmail.com)
 - **Website**: [razan-altujjar.netlify.app](https://razan-altujjar.netlify.app/)
 
 ---
@@ -37,8 +37,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Razan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Razan-ALTUJJAR&show_icons=true&theme=radical" alt="Razan's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razan-ALTUJJAR&layout=compact&theme=radical" alt="Top Languages" />
 </p>
