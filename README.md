@@ -9,9 +9,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">
 
 
-- 📫 How to reach me **razantejjar1@gmail.com** **https://razan-altujjar.netlify.app/**
+- 📫 How to reach me **razantejjar1@gmail.com**
+                      **https://razan-altujjar.netlify.app/**
 
-- 
+  
   
 
 <h3 align="left">Languages and Tools:</h3>
