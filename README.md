@@ -3,14 +3,15 @@
 <!-- Added Typing ticker -->    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+a+master's+degree+in+statistical+engineering.;Passionate+about+data+science/analyses.) 
 
-![MasterHead](https://camo.githubusercontent.com/e676ede17c7a1cca2572bf752af0641b59871f02be12fd65309a01104d136731/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a675f5f6a6965734c52496643526566564736395066772e676966)
 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">
 
 
-- 📫 How to reach me **razantejjar1@gmail.com**
+- 📫 How to reach me **razantejjar1@gmail.com** **https://razan-altujjar.netlify.app/**
+
+- 
   
 
 <h3 align="left">Languages and Tools:</h3>
