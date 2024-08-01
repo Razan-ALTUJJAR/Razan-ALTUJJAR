@@ -34,11 +34,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🌟 Background Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razan-ALTUJJAR&show_icons=true&theme=radical" alt="Razan's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razan-ALTUJJAR&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Background Animation" width="100%" height="auto"/>
 </p>
