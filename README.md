@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=1000&color=F70000&width=800&lines=Young+graduate+of+a+master's+degree+in+statistical+engineering.;Passionate+about+data+science/analyses.)
 
 <!-- Animated GIF as a background -->
-![Animated Background](https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gi)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">
 
 ## About Me
 I'm a young graduate with a master's degree in statistical engineering, passionate about data science and analyses.
