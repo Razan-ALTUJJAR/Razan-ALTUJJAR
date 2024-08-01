@@ -5,9 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - **razantejjar1@gmail.com**
   - **[https://razan-altujjar.netlify.app/](https://razan-altujjar.netlify.app/)**
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -27,3 +29,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
+
+---
+
+<style>
+  body {
+    background: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+  }
+
+  h3, p, a {
+    color: #ffcc00;
+  }
+
+  a:hover {
+    color: #ff3300;
+  }
+</style>
