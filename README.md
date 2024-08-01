@@ -34,8 +34,3 @@
 
 ---
 
-### 🌟 Background Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Background Animation" width="100%" height="auto"/>
-</p>
