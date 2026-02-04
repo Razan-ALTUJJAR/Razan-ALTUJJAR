@@ -7,21 +7,18 @@
 
 
 <!-- GIF AGGRANDI -->
-<div align="center">
-  <img
-    alt="Data Analytics Dashboard"
-    src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/main/pKaUoRkjJb.gif"
-    style="
-      width: 100vw;
-      max-width: 100%;
-      height: auto;
-      border-radius: 15px;
-      border: 4px solid #FF69B4;
-      box-shadow: 0 15px 35px rgba(255, 105, 180, 0.25);
-      display: block;
-    "
-  />
-</div>
+<img
+  alt="Data Analytics Dashboard"
+  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/main/pKaUoRkjJb.gif"
+  style="
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+  "
+/>
+
 
 
 <br>
