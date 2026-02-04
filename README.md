@@ -13,11 +13,10 @@
   style="
     width: 100%;
     height: auto;
-    border-radius: 0;
-    border: none;
-    box-shadow: none;
+    display: block;
   "
 />
+
 
 
 
