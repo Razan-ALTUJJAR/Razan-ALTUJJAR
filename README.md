@@ -5,9 +5,11 @@
 </div>
 
 
+
+
 <img
   alt="Data Analytics Dashboard"
-  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/blob/main/DhSgn2DkbW.gif"
+  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/main/DhSgn2DkbW.gif"
   style="
     width: 100%;
     height: auto;
