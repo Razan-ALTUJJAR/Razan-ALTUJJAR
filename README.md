@@ -9,7 +9,7 @@
 
 <img
   alt="Data Analytics Dashboard"
-  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/blob/main/JxnudukQG8.gif"
+  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/main/JxnudukQG8.gif"
   style="
     width: 100%;
     height: auto;
