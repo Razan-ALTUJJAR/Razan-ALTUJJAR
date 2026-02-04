@@ -11,7 +11,7 @@
   <img
     alt="Data Analytics Dashboard"
     width="98%"
-    src="https://github.com/Razan-ALTUJJAR/index/blob/main/pKaUoRkjJb.gif"
+    src=["https://github.com/Razan-ALTUJJAR/index/blob/main/pKaUoRkjJb.gif"](https://github.com/Razan-ALTUJJAR/Razan-ALTUJJAR/blob/main/pKaUoRkjJb.gif)
     style="border-radius: 15px; border: 4px solid #FF69B4; box-shadow: 0 15px 35px rgba(255, 105, 180, 0.25); margin: 10px 0;"
   />
 </div>
