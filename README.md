@@ -63,6 +63,6 @@ I believe in the power of **data storytelling** - transforming raw numbers into 
 
 ```mermaid
 pie title Current Specializations
-    "Data Visualization" : 
-    "Statistical Analysis" : 
-    "Machine Learning" : 
+    "Data Visualization" : 35
+    "Statistical Analysis" : 30
+    "Machine Learning" : 35
