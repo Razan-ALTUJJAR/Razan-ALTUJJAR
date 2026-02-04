@@ -1,12 +1,10 @@
 # You're welcome 👋
 
-<!-- Typing animation avec effet spécial -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=FF69B4&center=true&width=600&lines=you+want+to+know,+about+me+%3F;Well+let's+start!;take+a+look+below+%F0%9F%98%89" />
 </div>
 
 
-<!-- GIF AGGRANDI -->
 <img
   alt="Data Analytics Dashboard"
   src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Razan-ALTUJJAR/main/pKaUoRkjJb.gif"
@@ -65,6 +63,6 @@ I believe in the power of **data storytelling** - transforming raw numbers into 
 
 ```mermaid
 pie title Current Specializations
-    "Data Visualization" : 35
-    "Statistical Analysis" : 35
-    "Machine Learning" : 30
+    "Data Visualization" : 
+    "Statistical Analysis" : 
+    "Machine Learning" : 
