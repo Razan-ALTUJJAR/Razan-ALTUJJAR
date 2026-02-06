@@ -61,7 +61,7 @@ I believe in the power of **data storytelling** - transforming raw numbers into 
 
 
 
-## 🌟 ** Focus Areas**
+## 🌟 **Focus Areas**
 
 ```mermaid
 pie title Current Specializations
