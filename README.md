@@ -61,10 +61,15 @@ I believe in the power of **data storytelling** - transforming raw numbers into 
 
 
 
-## 🌟 **Recent Focus Areas**
+## 🌟 ** Focus Areas**
 
 ```mermaid
 pie title Current Specializations
     "Data Visualization" : 35
     "Statistical Analysis" : 30
     "Machine Learning" : 35
+
+Have a question or want to collaborate?  
+👉 https://razan-altujjar.netlify.app/contact/
+
+💖 Thanks for reaching out — I appreciate your time and interest!
