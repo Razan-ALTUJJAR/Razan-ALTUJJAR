@@ -69,7 +69,12 @@ pie title Current Specializations
     "Statistical Analysis" : 30
     "Machine Learning" : 35
 ```
+
+
+## 📬 Get in Touch
+
 Have a question or want to collaborate?  
 👉 https://razan-altujjar.netlify.app/contact/
 
 💖 Thanks for reaching out — I appreciate your time and interest!
+
