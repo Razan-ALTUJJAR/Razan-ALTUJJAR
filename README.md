@@ -1,21 +1,11 @@
 # You're welcome 👋
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=FF69B4&center=true&width=600&lines=you+want+to+know,+about+me+%3F;Well+let's+start!;take+a+look+below+%F0%9F%98%89" />
-</div> -->
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-    ?font=Fira+Code
-    &size=28
-    &pause=2000
-    &repeat=false
-    &color=FF69B4
-    &center=true
-    &width=600
-    &lines=you+want+to+know,+about+me+%3F;Well+let's+start!;take+a+look+below+%F0%9F%98%89" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=FF69B4&center=true&width=600&lines=you+want+to+know,+about+me+%3F;Well+let's+start!;take+a+look+below+%F0%9F%98%89" />
+</div> 
+
+
+
 
 <img
   alt="Data Analytics Dashboard"
