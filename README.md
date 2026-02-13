@@ -42,7 +42,6 @@ I believe in the power of **data storytelling** - transforming raw numbers into 
 ![Excel](https://img.shields.io/badge/Excel-FF69B4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 📈 **Visualization & BI**
-![Tableau](https://img.shields.io/badge/Tableau-FF1493?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFB6C1?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-FF69B4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF1493?style=for-the-badge&logo=python&logoColor=white)
